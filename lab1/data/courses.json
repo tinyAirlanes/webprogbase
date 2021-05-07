@@ -1,0 +1,29 @@
+{
+    "nextId": 7,
+    "items": [
+        {
+            "id": 1,
+            "name": "WebProg",
+            "duration": 160,
+            "group": "KP-91",
+            "credits": 5,
+            "date": "2020-01-01T20:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "name": "Logic",
+            "duration": "160",
+            "group": "KP-93",
+            "credits": "2",
+            "date": "2019-02-09T21:00:00.000Z"
+        },
+        {
+            "id": 5,
+            "name": "AOS",
+            "duration": "160",
+            "group": "KP-92",
+            "credits": "2",
+            "date": "2020-01-01T20:00:00.000Z"
+        }
+    ]
+}

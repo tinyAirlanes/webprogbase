@@ -1,0 +1,26 @@
+{
+"nextId": 3, 
+
+"items":[
+     
+    {
+      "id": 1,
+      "login": "admin",
+      "fullname": "Admin Admin",
+      "role": 1,
+      "registeredAt":"2019-11-01T19:00:00.000Z",
+      "avaUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaYVmbxsqHXNZc6k9pCplmH314MX-Hz_uoQ&usqp=CAU",
+      "isEnabled":"true"
+
+    },
+    {
+      "id": 2,
+      "login": "testUser",
+      "fullname": "Test User",
+      "role": 2,
+      "registeredAt":"2020-07-02T21:00:00.000Z",
+      "avaUrl":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/bmw-m5-e34-tuning-bmw-5-series-tunned-m5-sissy-angelastro.jpg",
+      "isEnabled":"true"
+    }
+ ]
+}
